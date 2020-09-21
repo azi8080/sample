@@ -1,10 +1,13 @@
-Shell Scripting
+
 Topics
-She-Bang & Comments
-Printing
-Variables
-Inputs
-Functions
-Misc, Redirectors , Exit status
-conditions
-Loops
+
+01.Shell Scripting
+02.Topics
+03.She-Bang & Comments
+04.Printing
+05.Variables
+06.Inputs
+07.Functions
+08.Misc, Redirectors , Exit status
+09.conditions
+10.Loops
